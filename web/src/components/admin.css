@@ -1,0 +1,28 @@
+.maindiv{
+    width: 20%;
+    display:flex ;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 20%;
+    border: 1px solid #61B846;
+}
+
+
+.text{
+    margin: 12px;
+}
+.add-button{
+    margin: 10px;
+    border: #61B846;
+    background-color: #61B846;
+    color: white;
+    border-radius: 5px;
+    height: 50px;
+    font-size: 20px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 3px;
+    border : 1px solid grey;
+}

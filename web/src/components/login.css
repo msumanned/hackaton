@@ -1,0 +1,21 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px;
+}
+/* .loginForm > .TextField{
+    width: 500px;
+} */
+.login-heading{
+    font-weight: bold;
+    color: #61B846;
+    
+}
+.login-sub-heading{
+    color: #024F9D;
+}
+
+.login-page{
+padding: 20px;
+}
